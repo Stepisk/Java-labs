@@ -1,0 +1,84 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App<Labs>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "Horse<Labs>",
+            "request": "launch",
+            "mainClass": "horse.Horse",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "Laba1<Labs>",
+            "request": "launch",
+            "mainClass": "laba1.Main",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "Laba2<Labs>",
+            "request": "launch",
+            "mainClass": "laba2.Main",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "Laba3<Labs>",
+            "request": "launch",
+            "mainClass": "laba3.Main",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "Laba4<Labs>",
+            "request": "launch",
+            "mainClass": "laba4.Main",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "Laba5<Labs>",
+            "request": "launch",
+            "mainClass": "laba5.Main",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "Laba6<Labs>",
+            "request": "launch",
+            "mainClass": "laba6.Main",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "Laba7<Labs>",
+            "request": "launch",
+            "mainClass": "laba7.Main",
+            "projectName": "Labs"
+        },
+        {
+            "type": "java",
+            "name": "okr<Labs>",
+            "request": "launch",
+            "mainClass": "okr.Main",
+            "projectName": "Labs"
+        }
+    ]
+}
