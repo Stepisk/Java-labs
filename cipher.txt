@@ -1,0 +1,35 @@
+Поток №0
+Название объекта: Cipher
+Название класса: laba12.HillCipher
+n: 3
+key: gybnqkurp
+plainText: act
+
+Поток №1
+Название объекта: Cipher
+Название класса: laba12.HillCipher
+n: 3
+key: gybnqkurp
+plainText: act
+
+Поток №2
+Название объекта: Cipher
+Название класса: laba12.HillCipher
+n: 3
+key: gybnqkurp
+plainText: act
+
+Поток №3
+Название объекта: Cipher
+Название класса: laba12.HillCipher
+n: 3
+key: gybnqkurp
+plainText: act
+
+Поток №4
+Название объекта: Cipher
+Название класса: laba12.HillCipher
+n: 3
+key: gybnqkurp
+plainText: act
+
